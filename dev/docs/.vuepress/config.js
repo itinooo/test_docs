@@ -9,7 +9,7 @@ module.exports = {
             '/',
             '/category1/',
             {
-                title: 'category2_nest',
+                title: 'c2_nest',
                 path: '/category2/',
                 children:[
                     '/category2/test.md',
